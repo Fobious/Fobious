@@ -3,14 +3,11 @@
   ║  FABRÍCIO DIAS // GITHUB PROFILE // DATA ENGINEERING SYSTEM     ║
   ║  Theme: AI / JARVIS / Cyberpunk                                 ║
   ╚══════════════════════════════════════════════════════════════════╝
-
-  CONFIGURAÇÃO:
+-->
 
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,35:071B2B,70:0B3B4A,100:00F7FF&text=FABRÍCIO%20DIAS&fontColor=E6F7FF&fontSize=48&fontAlignY=35&desc=DATA%20ENGINEER%20%7C%20RPA%20%7C%20CLOUD%20%7C%20ANALYTICS&descAlignY=57&descSize=16&animation=fadeIn" alt="Fabrício Dias Banner"/>
-
-<!-- SYSTEM BOOT -->
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2200&pause=650&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&height=90&lines=%5BSYSTEM%5D+Inicializando+perfil...;%5BCORE%5D+Data+Engineering+Module%3A+ONLINE;%5BCLOUD%5D+AWS+%7C+Azure+%7C+Databricks+%7C+OCI;%5BAUTOMATION%5D+Python+%2B+RPA%3A+READY;%5BSTATUS%5D+Transformando+dados+em+sistemas+escal%C3%A1veis." alt="System initialization typing animation"/>
 
@@ -18,13 +15,16 @@
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00F7FF?style=for-the-badge&labelColor=0D1117" alt="Status Online"/>
 <img src="https://img.shields.io/badge/ROLE-DATA%20ENGINEER-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Data Engineer"/>
-<img src="https://img.shields.io/badge/LOCATION-RIO%20DE%20JANEIRO-FF00E6?style=for-the-badge&labelColor=0D1117" alt="Rio de Janeiro"/>
+<img src="https://img.shields.io/badge/LOCATION-RIO%20DE%20JANEIRO-FF00E6?style=img.shields.io/badge/LOCATION-RIO%20DE%20JANEIRO-FF00E6?style=for-the-badge&labelColor=0D1117" alt="Rio de Janeiro"/>
 <img src="https://komarev.com/ghpvc/?username=Fobious&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
-> SYSTEM.PROFILE // SOBRE MIM
+---
 
+## `> SYSTEM.PROFILE // SOBRE MIM`
+
+```yaml
 identity:
   name: "Fabrício Dias"
   role: "Engenheiro de Dados"
@@ -42,47 +42,56 @@ focus:
   cloud: true
   rpa: true
   analytics: true
+```
 
-Sou Engenheiro de Dados com foco em desenvolvimento de arquiteturas escaláveis, automação de processos e construção de pipelines de dados.
+Sou **Engenheiro de Dados** com foco no desenvolvimento de arquiteturas escaláveis, automação de processos e construção de pipelines de dados.
 
-Atuo principalmente com Python, PySpark, Data Lakehouse, ETL/ELT, Cloud e RPA, buscando reduzir tarefas manuais, aumentar a confiabilidade das rotinas e garantir que os dados estejam íntegros e disponíveis para consumo analítico.
+Atuo principalmente com **Python, PySpark, Data Lakehouse, ETL/ELT, Cloud e RPA**, buscando reduzir tarefas manuais, aumentar a confiabilidade das rotinas e garantir que os dados estejam íntegros e disponíveis para consumo analítico.
 
-Atualmente curso Engenharia de Dados no Instituto Infnet e continuo aprofundando conhecimentos em arquitetura de dados, processamento distribuído, cloud computing e automação.
+Atualmente curso **Engenharia de Dados no Instituto Infnet** e continuo aprofundando conhecimentos em arquitetura de dados, processamento distribuído, cloud computing e automação.
 
-> CORE.STACK // TECH STACK
+---
+
+## `> CORE.STACK // TECH STACK`
 
 <div align="center">
 
-Data Engineering
+### Data Engineering
 
 <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark"/>
 <img src="https://img.shields.io/badge/ETL%20%2F%20ELT-00F7FF?style=for-the-badge&logo=databricks&logoColor=0D1117" alt="ETL ELT"/>
 <img src="https://img.shields.io/badge/Data%20Lakehouse-7C3AED?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Lakehouse"/>
 <img src="https://img.shields.io/badge/Raw%20%E2%86%92%20Bronze%20%E2%86%92%20Silver%20%E2%86%92%20Gold-FF00E6?style=for-the-badge" alt="Medallion Architecture"/>
 
-Cloud & Platforms
+<br/><br/>
+
+### Cloud & Platforms
 
 <img src="https://skillicons.dev/icons?i=aws,azure&theme=dark" alt="AWS Azure"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3"/>
 <img src="https://img.shields.io/badge/AWS%20Glue-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Glue"/>
 <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
 <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud Infrastructure"/>
 
-Automation & RPA
+<br/><br/>
+
+### Automation & RPA
 
 <img src="https://img.shields.io/badge/Python%20Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Automation"/>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
 <img src="https://img.shields.io/badge/Pywinauto-00F7FF?style=for-the-badge&logo=windows&logoColor=0D1117" alt="Pywinauto"/>
 <img src="https://img.shields.io/badge/PyAutoGUI-7C3AED?style=for-the-badge&logo=python&logoColor=white" alt="PyAutoGUI"/>
 
-Analytics & Visualization
+<br/><br/>
+
+### Analytics & Visualization
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" alt="Power BI"/>
 <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio"/>
@@ -90,7 +99,9 @@ Analytics & Visualization
 
 </div>
 
-> TOOLKIT.LOAD // FERRAMENTAS
+---
+
+## `> TOOLKIT.LOAD // FERRAMENTAS`
 
 <div align="center">
 
@@ -107,44 +118,51 @@ Analytics & Visualization
 
 </div>
 
-> PROJECTS.DIRECTORY // PROJETOS EM DESTAQUE
+---
+
+## `> PROJECTS.DIRECTORY // PROJETOS EM DESTAQUE`
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
-⚡ Data Lakehouse
+### ⚡ Data Lakehouse
 
-Arquiteturas em camadas Raw → Bronze → Silver → Gold, com foco em ingestão, transformação, qualidade e disponibilização de dados.
+Arquiteturas em camadas **Raw → Bronze → Silver → Gold**, com foco em ingestão, transformação, qualidade e disponibilização de dados.
 
-Python PySpark Databricks Cloud
+`Python` `PySpark` `Databricks` `Cloud`
 
 </td>
+
 <td width="33%" valign="top">
 
-🤖 RPA Automation
+### 🤖 RPA Automation
 
 Automação de rotinas operacionais e analíticas, integração com aplicações web e desktop e redução de processos manuais.
 
-Python Selenium Pywinauto PyAutoGUI
+`Python` `Selenium` `Pywinauto` `PyAutoGUI`
 
 </td>
+
 <td width="33%" valign="top">
 
-📊 Analytics Engineering
+### 📊 Analytics Engineering
 
 Preparação de dados e construção de soluções analíticas para transformar informação operacional em indicadores acionáveis.
 
-Power BI SQL Looker Studio QuickSight
+`Power BI` `SQL` `Looker Studio` `QuickSight`
 
 </td>
+
 </tr>
 </table>
 
-Repository uplink: substitua os cards acima pelos seus repositórios públicos à medida que forem publicados, mantendo esta seção como vitrine dos projetos mais relevantes.
+---
 
-> CURRENT_OBJECTIVES.exe
+## `> CURRENT_OBJECTIVES.exe`
 
+```console
 fabricio@data-core:~$ ./current_objectives.sh
 
 [01] ▶ Evoluir arquiteturas modernas de Data Lakehouse
@@ -158,65 +176,102 @@ SYSTEM STATUS ........................................ [ ONLINE ]
 LEARNING MODE ........................................ [ ACTIVE ]
 AUTOMATION ENGINE .................................... [ READY  ]
 NEXT LEVEL ........................................... [ LOADING... ]
+```
 
-> GITHUB.TELEMETRY // STATS
+---
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Fobious&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF00E6&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fobious&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Fobious&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF00E6&currStreakLabel=00F7FF&sideLabels=C9D1D9&dates=7D8590" alt="GitHub Streak"/>
-
-</div>
-
-> ACTIVITY.MONITOR // CONTRIBUTION GRAPH
+## `> GITHUB.TELEMETRY // STATS`
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fobious&bg_color=0D1117&color=00F7FF&line=FF00E6&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20Activity%20%2F%2F%20Fabr%C3%ADcio%20Dias" alt="GitHub Activity Graph"/>
+<img height="170"
+     src="./profile/stats.svg"
+     alt="Fobious GitHub Stats"/>
+
+<img height="170"
+     src="./profile/top-langs.svg"
+     alt="Fobious Top Languages"/>
+
+<br/><br/>
+
+<img
+     src="./profile/streak.svg"
+     alt="Fobious GitHub Streak"/>
 
 </div>
 
-> ACHIEVEMENTS.UNLOCKED // TROPHIES
+---
+
+## `> ACTIVITY.MONITOR // CONTRIBUTION GRAPH`
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Fobious&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7" alt="GitHub Trophies"/>
+<img width="100%"
+     src="https://github-readme-activity-graph.vercel.app/graph?username=Fobious&bg_color=0D1117&color=00F7FF&line=FF00E6&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20Activity%20%2F%2F%20Fabr%C3%ADcio%20Dias"
+     alt="Fobious Contribution Activity Graph"/>
 
 </div>
 
-> CONTRIBUTION.NEURAL_PATH // SNAKE
+---
+
+## `> ACHIEVEMENTS.UNLOCKED // TROPHIES`
+
+<div align="center">
+
+<img width="100%"
+     src="./profile/trophy.svg"
+     alt="Fobious GitHub Trophies"/>
+
+</div>
+
+---
+
+## `> CONTRIBUTION.NEURAL_PATH // SNAKE`
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fobious/Fobious/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fobious/Fobious/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Fobious/Fobious/output/github-contribution-grid-snake.svg">
+
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Fobious/Fobious/output/github-contribution-grid-snake-dark.svg">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Fobious/Fobious/output/github-contribution-grid-snake.svg">
+
+  <img
+    alt="Fobious GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/Fobious/Fobious/output/github-contribution-grid-snake.svg">
+
 </picture>
 
 </div>
 
-> NETWORK.INTERFACE // CONECTE-SE COMIGO
+---
+
+## `> NETWORK.INTERFACE // CONECTE-SE COMIGO`
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/fabr%C3%ADcio-dias-b608a7150">
   <img src="https://img.shields.io/badge/LinkedIn-Fabr%C3%ADcio%20Dias-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
 <a href="mailto:fabricio_fabriciosantos@outlook.com.br">
   <img src="https://img.shields.io/badge/Outlook-fabricio__fabriciosantos-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"/>
 </a>
 
 <br/><br/>
 
+```text
 PORTUGUÊS  ████████████████████  NATIVO
 ENGLISH    ███████████████░░░░░  B2
+```
 
 </div>
+
+---
 
 <div align="center">
 
@@ -225,7 +280,10 @@ ENGLISH    ███████████████░░░░░  B2
 <br/>
 
 <sub>
-  <code>FDS://DATA-CORE</code> · Engineering data. Automating complexity. Building what scales.
+  <code>FDS://DATA-CORE</code>
+  · Engineering data.
+  Automating complexity.
+  Building what scales.
 </sub>
 
 <br/><br/>
