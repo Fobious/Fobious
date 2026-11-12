@@ -212,7 +212,7 @@
   
           <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#7289DA">Repositories</text>
           <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10.5" fill="#FFFFFF">First Repository</text>
-          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#FFFFFF">7pt</text>
+          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#FFFFFF">8pt</text>
           
     <style>
     @keyframes RepositoriesRankAnimation {
@@ -220,7 +220,7 @@
         width: 0px;
       }
       to {
-        width: 53.33333333333333px;
+        width: 62.22222222222222px;
       }
     }
     #Repositories-rank-progress{
